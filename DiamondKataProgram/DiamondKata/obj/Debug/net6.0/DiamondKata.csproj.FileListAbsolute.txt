@@ -1,0 +1,15 @@
+/Users/a1920219/Documents/Workspace/Devratna_Test/DiamondKataProgram/DiamondKata/bin/Debug/net6.0/DiamondKata
+/Users/a1920219/Documents/Workspace/Devratna_Test/DiamondKataProgram/DiamondKata/bin/Debug/net6.0/DiamondKata.deps.json
+/Users/a1920219/Documents/Workspace/Devratna_Test/DiamondKataProgram/DiamondKata/bin/Debug/net6.0/DiamondKata.runtimeconfig.json
+/Users/a1920219/Documents/Workspace/Devratna_Test/DiamondKataProgram/DiamondKata/bin/Debug/net6.0/DiamondKata.dll
+/Users/a1920219/Documents/Workspace/Devratna_Test/DiamondKataProgram/DiamondKata/bin/Debug/net6.0/DiamondKata.pdb
+/Users/a1920219/Documents/Workspace/Devratna_Test/DiamondKataProgram/DiamondKata/obj/Debug/net6.0/DiamondKata.csproj.AssemblyReference.cache
+/Users/a1920219/Documents/Workspace/Devratna_Test/DiamondKataProgram/DiamondKata/obj/Debug/net6.0/DiamondKata.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a1920219/Documents/Workspace/Devratna_Test/DiamondKataProgram/DiamondKata/obj/Debug/net6.0/DiamondKata.AssemblyInfoInputs.cache
+/Users/a1920219/Documents/Workspace/Devratna_Test/DiamondKataProgram/DiamondKata/obj/Debug/net6.0/DiamondKata.AssemblyInfo.cs
+/Users/a1920219/Documents/Workspace/Devratna_Test/DiamondKataProgram/DiamondKata/obj/Debug/net6.0/DiamondKata.csproj.CoreCompileInputs.cache
+/Users/a1920219/Documents/Workspace/Devratna_Test/DiamondKataProgram/DiamondKata/obj/Debug/net6.0/DiamondKata.dll
+/Users/a1920219/Documents/Workspace/Devratna_Test/DiamondKataProgram/DiamondKata/obj/Debug/net6.0/refint/DiamondKata.dll
+/Users/a1920219/Documents/Workspace/Devratna_Test/DiamondKataProgram/DiamondKata/obj/Debug/net6.0/DiamondKata.pdb
+/Users/a1920219/Documents/Workspace/Devratna_Test/DiamondKataProgram/DiamondKata/obj/Debug/net6.0/DiamondKata.genruntimeconfig.cache
+/Users/a1920219/Documents/Workspace/Devratna_Test/DiamondKataProgram/DiamondKata/obj/Debug/net6.0/ref/DiamondKata.dll
